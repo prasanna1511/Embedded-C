@@ -20,7 +20,7 @@ This repository contains a series of experiments conducted on embedded systems, 
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
     ```bash
-    git clone https://github.com/yourusername/embedded-systems-experiments.git
+    git clone https://github.com/prasanna1511/Embedded-C.git
     ```
 
 2. **Open in Arduino IDE**: Navigate to the cloned repository and open the `.ino` files using the Arduino IDE.
