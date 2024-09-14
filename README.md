@@ -6,9 +6,8 @@ This repository contains a series of experiments conducted on embedded systems, 
 
 - Arduino IDE: Ensure you have the latest version of the Arduino IDE installed on your computer. You can download it from the [Arduino website](https://www.arduino.cc/en/software).
   
-- Arduino Board: A compatible Arduino board (e.g., Arduino Uno, Mega, or Nano) to upload and run the experiments.
+- Arduino Board: A compatible Arduino board (e.g., Arduino Uno, Mega, ESP8266 or Nano) to upload and run the experiments.
   
-- Required Libraries: Some experiments may require additional libraries which can be installed via the Arduino Library Manager.
 
 
 
